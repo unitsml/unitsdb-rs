@@ -1,6 +1,7 @@
 [package]
 name = "unitsdb-rs"
 version = "0.1.0"
+repository = "https://github.com/unitsml/unitsdb-rs"
 edition = "2021"
 description = "Source-pinned UnitsDB register and lookup tables"
 license-file = "LICENSE.md"
